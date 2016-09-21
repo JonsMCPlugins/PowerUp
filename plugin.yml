@@ -1,0 +1,9 @@
+name: PowerUp
+main: powerup\Main
+version: 1.0.0
+api: 2.0.0
+commands:
+   pu:
+     description: Power Up command!
+   pulist:
+     description: Power Up list
